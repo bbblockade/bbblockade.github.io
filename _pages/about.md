@@ -1,8 +1,31 @@
 ---
+layout: page
 permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm **Jiqiang Chen**, a Master of Data Science student at the University of Melbourne with first-class honours (WAM 80+). I have a strong foundation in mathematics, statistics, and computer science, and I'm passionate about solving real-world problems with data.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### 🔍 Experience
+- **ML/AI Intern @ Agriculture Victoria Research**  
+  Built anomaly detection models for beehive health using multimodal smart farm data (IoT sensors, eDNA, sound). Collaborated with bee-keepers and iterated based on user feedback.
+  
+- **University Casual Tutor**  
+  Teaching assistant for MAST10006 Calculus 2, assisting first-year students with foundational mathematics.
+
+- **VCE Maths & Physics Tutor**  
+  Helped students achieve 40+ scores in Year 12 exams across multiple subjects.
+
+### 🧠 Skills
+- **Languages**: Python, R, SQL, Java, C
+- **ML/AI**: Scikit-learn, PyTorch, TensorFlow, OpenCV, Statsmodels
+- **Data & Cloud**: CouchDB, Azure, Linux, Shell, HPC (Spartan)
+- **Math & Stats**: Strong foundation in probability, optimization, and statistical inference
+
+### 🎯 Goals
+I'm looking for opportunities in:
+- Data Science & Machine Learning Engineering
+- Research & Applied AI 
+- Computer Vision & NLP
+
+📧 [Email me](mailto:chenjiqiang0305@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jiqiang-chen-47583a28a/)
