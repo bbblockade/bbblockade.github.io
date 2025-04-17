@@ -19,7 +19,7 @@ description: >-
   A little corner of the internet where I share my projects, experiments,
   and things I've built with code, data, and a bit of curiosity.
 github_username: bbblockade
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 
@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Jiqiang Chen"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Jienigui.jpg"
   bio    : "Data science grad working on ML/AI projects, research, and real-world applications."
   links  :
     - label: "GitHub"
