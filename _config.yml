@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Jiqiang Chen"
-  avatar : "/assets/images/Jienigui.png"
+  avatar : "/assets/images/Jienigui-modified.png"
   bio    : "Data science grad working on ML/AI projects, research, and real-world applications."
   links  :
     - label: "GitHub"
@@ -84,6 +84,8 @@ defaults:
       comments: true
       share: true
       related: true
+      show_tags: false         # ✅ Hide tags in post view
+      show_categories: false   # ✅ Hide categories in post view
   # _pages
   - scope:
       path: "_pages"
