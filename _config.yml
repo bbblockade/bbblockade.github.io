@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Bbblockade’s Data Science Playground"
+title: "Bbblockade’s Portfolio"
 email: chenjiqiang0305@gmail.com
 description: >-
   A little corner of the internet where I share my projects, experiments,
