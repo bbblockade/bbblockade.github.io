@@ -84,8 +84,9 @@ defaults:
       comments: true
       share: true
       related: true
-      show_tags: false         # ✅ Hide tags in post view
-      show_categories: false   # ✅ Hide categories in post view
+      header:
+        show_tags: false
+        show_categories: false
   # _pages
   - scope:
       path: "_pages"
