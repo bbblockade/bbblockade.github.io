@@ -67,6 +67,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jiqiang-chen-47583a28a/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:chenjiqiang0305@gmail.com"
 
 footer:
   links:
