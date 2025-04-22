@@ -21,7 +21,7 @@ We introduced the dashboard, which displays hive-level data and flags abnormal b
 
 We gave a walkthrough of how the system works and gathered feedback from local beekeepers.
 
-![Presenting to beekeepers in Mildura](../assets/images/Beekeeper_meeting.jpeg)
+![Presenting to beekeepers in Mildura](/assets/images/Beekeeper_meeting.jpeg)
 *Presenting our dashboard to beekeepers at the Smart Farm*
 
 ---
@@ -32,7 +32,7 @@ We also assisted with fixing a blocked irrigation pipe by manually adjusting val
 
 Later, we drove around the farm in a buggy to observe the sensor locations and overall layout, which helped connect the data we had been working with to the real environment. This was fun.
 
-![Driving farm buggy at the Smart Farm](../assets/images/Farm.png)
+![Driving farm buggy at the Smart Farm](/assets/images/Farm.png)
 *Driving the buggy around the Smart Farm*
 
 ---
@@ -41,7 +41,7 @@ Later, we drove around the farm in a buggy to observe the sensor locations and o
 
 After work, we had a chance to walk along the **Murray River** before sunset. The walk was quiet and a good way to wind down after the day's tasks.
 
-![Murray River at dusk](../assets/images/mildura_river.png)
+![Murray River at dusk](/assets/images/mildura_river.png)
 *Walking along the Murray River in the evening*
 
 ---
@@ -50,7 +50,7 @@ After work, we had a chance to walk along the **Murray River** before sunset. Th
 
 On the first night, we had dinner at **The Spanish Grill steakhouse** in Mildura. The food was great, and it was a nice way to end the day.
 
-![Dinner in Mildura](../assets/images/dinner.jpg)
+![Dinner in Mildura](/assets/images/dinner.png)
 *Dinner at The Spanish Grill in Mildura*
 
 ---
