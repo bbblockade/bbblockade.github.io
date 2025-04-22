@@ -1,65 +1,60 @@
 ---
-title: "From Code to Field: Presenting Our Beehive Monitoring System at Mildura Smart Farm"
+title: "From Melbourne to Mildura: Internship Field Trip"
 date: 2025-02-25T09:00:00+10:00
 categories:
   - blog
-  - internship
+  - trip
 tags:
-  - fieldwork
-  - bees
-  - data science
-  - agriculture
-  - dashboard
-  - machine learning
+  - Mildura
+  - Smart Farm
+  - Internship
+  - Field Notes
 ---
 
-One of the highlights of my internship with **Agriculture Victoria** was our field trip to the **Smart Farm in Mildura**, where we presented our data-driven beehive monitoring system to real-world users: beekeepers and farm staff.
-
-This project brought together **machine learning, acoustic and sensor data, and real-world agricultural practice** — and the trip gave me my first opportunity to demonstrate our tools directly to stakeholders who would actually use them.
+As part of my internship with **Agriculture Victoria**, I joined a **three-day field trip** to the **Smart Farm in Mildura**. The main goal was to present our beehive monitoring dashboard and meet the beekeepers who use the data in practice.
 
 ---
 
-### 🐝 Beekeepers + Data Science = Real Impact
+### 🐝 Presenting to Beekeepers
 
-We presented an **interactive dashboard** that visualises beehive health and highlights abnormal activity using machine learning. Built in Python with Dash and Plotly, it integrates multiple data sources like temperature, humidity, sound intensity, and chemical spray records.
+We introduced the dashboard, which displays hive-level data and flags abnormal behaviour based on sensor and sound readings, as well as chemical spray records. 
 
-The dashboard lets users explore hive data by site, date, and hive, and overlays model predictions to flag possible stress or disease events.
+We gave a walkthrough of how the system works and gathered feedback from local beekeepers.
 
-Seeing **beekeepers engage with the tool in person** was incredibly rewarding. They asked practical questions, gave suggestions on usability, and confirmed that the visualisations helped them validate what they were already seeing in the field.
-
-![Presenting to beekeepers in Mildura](../assets/images/beekeeper_meeting.jpeg)
-*Presenting our anomaly detection dashboard to beekeepers at Mildura Smart Farm*
-
+![Presenting to beekeepers in Mildura](../assets/images/Beekeeper_meeting.jpeg)
+*Presenting our dashboard to beekeepers at the Smart Farm*
 
 ---
 
-### 🌾 Hands-On Farm Experience
+### 🧰 Field Work
 
-### 🌾 Hands-On Farm Experience
+We also assisted with fixing a blocked irrigation pipe by manually adjusting valves across the site.
 
-Beyond the presentation, we also got involved in hands-on work at the Smart Farm — including helping troubleshoot a **pipe blockage issue** by manually adjusting valves across the site.
+Later, we drove around the farm in a buggy to observe the sensor locations and overall layout, which helped connect the data we had been working with to the real environment. This was fun.
 
-![Driving farm buggy at the Smart Farm](../assets/images/farm.png)
-
-While on-site, I also had the chance to **drive a farm buggy**, which was fun. 
-
+![Driving farm buggy at the Smart Farm](../assets/images/Farm.png)
+*Driving the buggy around the Smart Farm*
 
 ---
 
-### 🔍 What I Learned
+### 🌅 Murray River Walk
 
-This field trip grounded everything I’d been building during the internship. I learned:
-- How to **present technical tools** to non-technical users
-- The value of **feedback from domain experts**
-- That real-world validation is just as important as model accuracy
+After work, we had a chance to walk along the **Murray River** before sunset. The walk was quiet and a good way to wind down after the day's tasks.
 
-It also made me realise how powerful data science can be when it’s **applied in context — with the people and problems it’s meant to serve**.
+![Murray River at dusk](../assets/images/mildura_river.png)
+*Walking along the Murray River in the evening*
 
 ---
 
-### 🙏 Thank You
+### 🍽️ Dinner at The Spanish Grill
 
-A huge thanks to **Dr. Arbind**, **Kieran Murphy**, **Ronny Chen**, and the Agriculture Victoria researchers and beekeepers who welcomed us to the farm.
+On the first night, we had dinner at **The Spanish Grill steakhouse** in Mildura. The food was great, and it was a nice way to end the day.
 
+![Dinner in Mildura](../assets/images/dinner.jpg)
+*Dinner at The Spanish Grill in Mildura*
 
+---
 
+### 👥 Acknowledgements
+
+Thanks to **Dr. Arbind**, **Kieran**, and **Ronny** for organising the trip and supporting the field visit, it was a memorable trip!
